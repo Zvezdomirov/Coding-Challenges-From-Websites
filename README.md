@@ -1,1 +1,1 @@
-Here I will upload the problems that I solve on different coding challenges websites.
+Here I will upload some of the problems that I solve on different coding challenges websites.
